@@ -1,0 +1,34 @@
+_repo: L-Immorale--Racconto_28993
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cascella, Basilio
+    birthdate: 1860
+    deathdate: 1950
+    gutenberg_agent_id: '33625'
+    url: http://www.gutenberg.org/2009/agents/33625
+covers:
+- cover_type: archival
+  image_path: 28993-h/images/coverdeco2.jpg
+creator:
+  author:
+    agent_name: Butti, Enrico Annibale
+    birthdate: 1868
+    deathdate: 1912
+    gutenberg_agent_id: '33624'
+    url: http://www.gutenberg.org/2009/agents/33624
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2009-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28993'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: 'L''Immorale: Racconto'
+url: http://www.gutenberg.org/ebooks/28993
